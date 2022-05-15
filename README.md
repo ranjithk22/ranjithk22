@@ -2,4 +2,4 @@
 
 - Expertise in Frontend Skills like React with Redux, Javascript & TypeScript, HTML5, CSS3, Bootstrap5 and Material UI
 - Design skills in Figma & Adobe XD
-- Learning in backend technologies like NodeJS, ExpressJS, AWS, DynamoDB, Lamda Functions, MongoDB and Firebase
+- Learning in Backend technologies like NodeJS, ExpressJS, AWS, DynamoDB, Lamda Functions, MongoDB and Firebase

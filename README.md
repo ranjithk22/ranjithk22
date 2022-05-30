@@ -47,9 +47,8 @@
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/ranjith-kumar-k/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ranjithkumar.k22@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+<a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/ranjith-kumar-k/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ranjith%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ranjithkumar.k22@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ranjithkumar.k22@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-⭐️ From Ranjith (https://github.com/ranjithk22)
+
+

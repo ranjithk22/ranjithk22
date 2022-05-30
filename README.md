@@ -1,6 +1,4 @@
-<h2> Hey! I am Ranjith Kumar. I am a 8 years professional Front End Developer.</h2>
-
-
+<h2> Hey! I am Ranjith Kumar. I am a 8 years experienced Frontend Developer.</h2>
 
 - Expertise in Frontend Skills like React with Redux, Javascript & TypeScript, HTML5, CSS3, Bootstrap5 and Material UI
 - Working Knowledge in Figma & Adobe XD
@@ -46,5 +44,5 @@
 <li>Excellent communication and Inter-Personal Skills, well organized,goal-oriented.</li>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/ranjith-kumar-k/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ranjith%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ranjith-kumar-k/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ranjith%20Kumar-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ranjithkumar.k22@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ranjithkumar.k22@gmail.com-blue?style=flat-square&logo=gmail"></a>

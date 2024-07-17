@@ -1,8 +1,8 @@
-<h2> Hey! I am Ranjith Kumar. I am a 8 years experienced Frontend Developer.</h2>
+<h2> Hey! I am Ranjith Kumar. I am a 7-year experienced Full-stack developer.</h2>
 
-- Expertise in Frontend Skills like React with Redux, Javascript & TypeScript, HTML5, CSS3, Bootstrap5 and Material UI
+- Expertise in Frontend Skills like React with Redux, Javascript, HTML5, CSS3 and Bootstrap5
+- Backend Skills like Python, MYSQL and Djongo
 - Working Knowledge in Figma & Adobe XD
-- Basic knowledge in NodeJS, MongoDB, Firebase & AWS
 
 <h3> 🛠 &nbsp; My Tech Stack</h3>
 
